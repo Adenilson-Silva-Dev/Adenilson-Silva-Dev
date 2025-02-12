@@ -7,7 +7,7 @@ Atualmente, estou estudando para me aprofundar ainda mais no desenvolvimento mob
 ### Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adeniilson.siilva/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adenilson-silva-88702125a/](https://www.linkedin.com/in/adenilson-rosa-88702125a/?trk=opento_sprofile_details))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adenilson-rosa-88702125a/?trk=opento_sprofile_details/)
 
 ## 🤖 Tecnologias:
 
