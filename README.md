@@ -49,17 +49,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase
 <img
 align="left"
 alt="styled-components"
-title="styled-components"
+title=""
 height="200"
 style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=Adenilson Silva&show_icons=true&theme=dracula&custom_title=Adenilson%20Rosa's%20GitHub%20Stats&locale=pt-br" />
+src="https://github-readme-stats.vercel.app/api?username=Adenilson-Silva-Dev&show_icons=true&theme=dracula&custom_title=Adenilson%20Rosa's%20GitHub%20Stats&locale=pt-br" />
 
 <img
 align="left"
 alt="styled-components"
-title="styled-components"
+title=""
 height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson Silva&theme=dracula&custom_title=Tecnologias&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson-Silva-Dev&theme=dracula&custom_title=Tecnologias&exclude_repo=github-readme-stats,anuraghazra.github.io" />
 
 </div>
 
