@@ -31,7 +31,7 @@
 ## 🌍 Redes Sociais:
 <!-- Redes Sociais -->
 <p align="flex-start">
-  <a href="https://www.linkedin.com/in/adenilson-rosa-88702125a/ target="_blank">
+  <a href="https://www.linkedin.com/in/adenilson-rosa-88702125a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/seu-usuario-instagram" target="_blank">
@@ -41,6 +41,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
