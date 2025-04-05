@@ -1,7 +1,7 @@
 <!-- Título animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&right=true&vCenter=true&width=1000&lines=Hi,+eu+sou+o+Adenilson+Silva!+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&rigth=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Adenilson+Silva!+👋;Seja+bem-vindo+ao+meu+perfil!" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
       </p>
     </td>
     <td>
-      <img height="160em" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+      <img height="160em" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
     </td>
   </tr>
 </table>
@@ -30,12 +30,14 @@
 ## 🚀 Tecnologias que eu uso:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+
 </p>
+
 
 ---
 
