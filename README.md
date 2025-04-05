@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/seu-usuario-instagram" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/seu-id-do-discord" target="_blank">
+  <a href="https://discord.com/users/1123952343046688838 target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
