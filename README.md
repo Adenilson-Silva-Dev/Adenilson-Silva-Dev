@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Título animado -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&center=true&vCenter=true&width=1000&lines=Hi,+eu+sou+o+Adenilson+Silva!+👋)](https://git.io/typing-svg)
 
-<!--
-**Adenilson-Silva-Dev/Adenilson-Silva-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que eu uso:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub:
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adenilson-Silva-Dev&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson-Silva-Dev&layout=compact&langs_count=6&theme=radical" />
+</div>
+
+---
+
+## 🐍 Commits Snake:
+
+![snake gif](https://github.com/Adenilson-Silva-Dev/Adenilson-Silva-Dev/blob/output/github-contribution-grid-snake.svg)
