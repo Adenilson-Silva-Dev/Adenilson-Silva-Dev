@@ -1,5 +1,29 @@
 <!-- Título animado -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&center=true&vCenter=true&width=1000&lines=Hi,+eu+sou+o+Adenilson+Silva!+👋)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=28&right=true&vCenter=true&width=1000&lines=Hi,+eu+sou+o+Adenilson+Silva!+👋" />
+  </a>
+</p>
+
+---
+
+<!-- Sobre mim e GIF lado a lado -->
+<table>
+  <tr>
+    <td>
+      <h2>👨‍💻 Sobre mim</h2>
+      <p>
+        Sou um desenvolvedor <strong>Backend</strong> e <strong>Mobile</strong>, tenho 28 anos e sou apaixonado por tecnologia e programação.<br />
+        Todos os dias me dedico com foco e disciplina para alcançar meus objetivos como desenvolvedor.<br />
+        Estou sempre estudando, criando projetos e buscando evoluir tecnicamente e pessoalmente.<br />
+        Meu maior propósito é transformar ideias em soluções reais por meio do código!
+      </p>
+    </td>
+    <td>
+      <img height="160em" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -17,14 +41,17 @@
 
 ## 📊 Estatísticas do GitHub:
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adenilson-Silva-Dev&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson-Silva-Dev&layout=compact&langs_count=6&theme=radical" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adenilson-Silva-Dev&show_icons=true&theme=radical&count_private=true" />
+    </td>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson-Silva-Dev&layout=compact&langs_count=6&theme=radical" />
+    </td>
+  
+</table>
 
 ---
 
-
-
 ![snake gif](https://raw.githubusercontent.com/Adenilson-Silva-Dev/Adenilson-Silva-Dev/output/github-contribution-grid-snake-dark.svg)
-
