@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <h2>👨‍💻 Sobre mim</h2>
+      <h2>👨‍💻 Sobre mim:</h2>
       <p>
         Sou um desenvolvedor <strong>Backend</strong> e <strong>Mobile</strong>, tenho 28 anos e sou apaixonado por tecnologia e programação.<br />
         Todos os dias me dedico com foco e disciplina para alcançar meus objetivos como desenvolvedor.<br />
