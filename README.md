@@ -24,6 +24,7 @@
 
 ---
 
-## 🐍 Commits Snake:
 
-![snake gif](https://github.com/Adenilson-Silva-Dev/Adenilson-Silva-Dev/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/Adenilson-Silva-Dev/Adenilson-Silva-Dev/output/github-contribution-grid-snake-dark.svg)
+
