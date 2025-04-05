@@ -5,7 +5,7 @@
   </a>
 </p>
 
----
+
 
 <!-- Sobre mim e GIF lado a lado -->
 <table>
@@ -25,6 +25,23 @@
   </tr>
 </table>
 
+
+
+
+## 🌍 Redes Sociais:
+<!-- Redes Sociais -->
+<p align="flex-start">
+  <a href="https://www.linkedin.com/in/adenilson-rosa-88702125a/ target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/seu-usuario-instagram" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/seu-id-do-discord" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 Tecnologias que eu uso:
@@ -34,10 +51,8 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
-
+  <img height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 </p>
-
 
 ---
 
@@ -51,7 +66,7 @@
     <td>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenilson-Silva-Dev&layout=compact&langs_count=6&theme=radical" />
     </td>
-  
+  </tr>
 </table>
 
 ---
