@@ -56,4 +56,6 @@
 
 ---
 
+## 💻 O caminho dos meus commits:
+
 ![snake gif](https://raw.githubusercontent.com/Adenilson-Silva-Dev/Adenilson-Silva-Dev/output/github-contribution-grid-snake-dark.svg)
