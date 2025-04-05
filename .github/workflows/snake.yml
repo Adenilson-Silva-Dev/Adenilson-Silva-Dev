@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda diariamente à meia-noite (UTC)
+  push:
+    branches:
+      - main  # Gatilho também ao fazer push na branch main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar o GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Adenilson-Silva-Dev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Subir para a branch output
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
