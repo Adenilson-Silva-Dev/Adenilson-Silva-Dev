@@ -1,11 +1,11 @@
-name: generate animation
+name: 🐍 Generate Contribution Snake Animation
 
 on:
   # Executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
 
-  # Permite executar manualmente
+  # Permite execução manual
   workflow_dispatch:
 
   # Executa em push na branch master
@@ -14,15 +14,15 @@ on:
       - master
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    permissions:
+      contents: write
 
     steps:
-      # Gera a animação da cobrinha com quadradinhos escuros (tema dark)
-      - name: generate github-contribution-grid-snake.svg
+      # Gera os SVGs da animação da cobrinha com tema escuro
+      - name: Generate snake SVG (dark theme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,8 +31,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
           theme: dark-pixel
 
-      # Publica os arquivos SVG no branch "output"
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Publica os arquivos SVG na branch "output"
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
