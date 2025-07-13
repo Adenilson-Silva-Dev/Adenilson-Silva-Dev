@@ -43,12 +43,22 @@
 ## 🚀 Tecnologias que eu uso:
 
 <p align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <!-- JavaScript -->
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+  <!-- React Native -->
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <!-- Spring Boot (Java) -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+  <!-- MySQL -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+  <!-- Firebase -->
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img height="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 </p>
+
 
 ---
 
