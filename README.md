@@ -26,7 +26,7 @@
 ---
 
 ## 🌍 Redes Sociais:
-<p align="flex-start">
+<p align="left">
   <a href="https://www.linkedin.com/in/adenilson-rosa-88702125a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -41,29 +41,17 @@
   </a>
 </p>
 
-
 ---
 
 ## 🚀 Tecnologias que eu uso:
 
 <p align="left">
-  <!-- JavaScript -->
   <img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <!-- React Native -->
   <img title="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- Spring Boot -->
   <img title="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-  <!-- MySQL -->
   <img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-  <!-- Firebase -->
   <img title="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </p>
-
-
 
 ---
 
